@@ -1,0 +1,21 @@
+{
+  "name": "nr-ws-origin",
+  "version": "0.0.1",
+  "description": "This ws websocket client passes the URL as origin header",
+  "main": "options-origin.js",
+  "keywords": [
+    "websocket",
+    "options",
+    "origin"
+  ],
+  "node-red": {
+    "nodes": {
+      "options-origin": "options-origin.js"
+    }
+  },
+  "author": {
+    "name": "Sander van Loosbroek",
+    "email": "sander@vanloosbroek.com"
+  },
+  "license": "Apache-2.0"
+}
