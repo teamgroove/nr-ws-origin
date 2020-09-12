@@ -1,6 +1,6 @@
 {
   "name": "nr-ws-origin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This ws websocket client passes the URL as origin header",
   "main": "options-origin.js",
   "keywords": [
